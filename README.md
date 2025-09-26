@@ -60,3 +60,12 @@ Maintain accurate count of unique visitors per stream
 Prevent duplicate counting if a visitor reappears
 
 Count retrievable via database queries or log parsing
+
+📂 Project Structure
+intelligent-face-tracker/
+│── app.py               
+│── config.json           
+│── requirements.txt     
+│── /logs                
+│── /database             
+│── events.log  
